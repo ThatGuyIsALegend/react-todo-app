@@ -1,0 +1,12 @@
+
+@media screen and (max-width: 768px) {
+    .App {
+        width: 250px; /* Set the width to 40% when the screen width is 768px or less */
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .App {
+        width: 700px; /* Set the width to 300px when the screen width is greater than 768px */
+    }
+}

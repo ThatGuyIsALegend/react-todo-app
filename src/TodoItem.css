@@ -1,0 +1,10 @@
+h2 {
+    color: #eee;
+    margin: 0;
+    padding: 0;
+}
+
+.todoContainer {
+    display: flex;
+    justify-content: space-between;
+}
